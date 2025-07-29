@@ -1,6 +1,13 @@
 # 🌦️ Weather App
 
-A simple weather application built with **HTML**, **CSS**, **JavaScript**, **Java Servlet**, and the **OpenWeather API**.
+![Java](https://img.shields.io/badge/language-Java-orange)
+![Servlet](https://img.shields.io/badge/Servlet-Java-blue)
+![HTML](https://img.shields.io/badge/frontend-HTML/CSS/JS-yellow)
+![OpenWeather](https://img.shields.io/badge/API-OpenWeather-green)
+![GitHub](https://img.shields.io/badge/hosted_on-GitHub-black)
+
+A simple weather application that shows real‑time weather data for any city, using Java Servlet backend and OpenWeather API.
+
 
 ## 📌 Features
 - Shows current weather for any city
