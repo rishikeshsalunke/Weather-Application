@@ -15,7 +15,7 @@ A simple weather application built with **HTML**, **CSS**, **JavaScript**, **Jav
 - Eclipse IDE
 
 ## 🚀 How to Run
-1. Clone this repository:
+1. Clone this repository: `git clone https://github.com/rishikeshsalunke/Weather-Application.git`
 2. Import the project into **Eclipse** as an existing Java project.
 3. Add servlet API (if not already).
 4. Run the project on your local server (e.g., Tomcat).
