@@ -80,7 +80,7 @@ public class WeatherServlet extends HttpServlet {
 			responseContent.append(sc.nextLine());
 		}
 		sc.close();
-		System.out.println(responseContent);
+//		System.out.println(responseContent);
 
 		// TypeCasting = Parsing the data into JSON (Gson = google library) extract
 		// temperature, date, and humidity
