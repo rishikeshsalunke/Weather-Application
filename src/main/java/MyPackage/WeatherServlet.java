@@ -20,7 +20,7 @@ import com.google.gson.JsonObject;
  * Servlet implementation class WeatherServlet
  */
 public class WeatherServlet extends HttpServlet {
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 1L; 
 
 	/**
 	 * @see HttpServlet#HttpServlet()
